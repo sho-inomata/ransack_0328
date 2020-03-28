@@ -1,0 +1,6 @@
+User.create!(name: "斎藤", age: 40)
+User.create!(name: "太田", age: 39)
+User.create!(name: "猪俣", age: 34)
+User.create!(name: "伊佐", age: 27)
+User.create!(name: "徳永", age: 19)
+User.create!(name: "高橋", age: 22)
